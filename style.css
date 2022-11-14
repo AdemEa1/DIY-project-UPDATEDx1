@@ -1624,7 +1624,7 @@ footer .row {
 }
 
 @media (max-width: 576px) {
-  .footer__columns {
+  .footer__column {
     justify-content: center;
   }
   .footer__bars {
